@@ -1,0 +1,9 @@
+#In the python shell.
+
+from tkinter import *
+root = Tk()
+root.title("Login Window")
+root.geometry("400X100")#resize window
+app = Application(root)#testing
+
+root.mainloop()
